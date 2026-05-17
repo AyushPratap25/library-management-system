@@ -35,7 +35,7 @@ USER = 'root'
 PASSWORD = 'your_password'
 DATABASE = 'library_management_system'
 ```
-3. Place `login (1).png` in the same folder as the script
+3. Place `login.png` in the same folder as the script
 4. Run the script:
 ```
 python library_management_system.py
